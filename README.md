@@ -1,4 +1,8 @@
-# [Build Native Mobile Apps with Flutter](https://classroom.udacity.com/courses/ud905)
+# [STL Flutter Study Jam Nov 2018](https://classroom.udacity.com/courses/ud905)
+
+## [Slides](https://github.com/flutter/udacity-course/tree/master/flutter-study-jam-slides)
+
+## [Build Native Mobile Apps with Flutter](https://classroom.udacity.com/courses/ud905)
 
 This repo contains everything you need for [Build Native Mobile Apps with Flutter, by Google and Udacity](https://classroom.udacity.com/courses/ud905). The Unit Converter app has been broken down into sub-projects. To get started, [set up your development environment](https://flutter.io/setup) and clone this repo, using `git clone git@github.com:flutter/udacity-course.git` or `git clone https://github.com/flutter/udacity-course.git`.
 
